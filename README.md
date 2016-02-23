@@ -1,2 +1,3 @@
-# gitrepo00001
-A normal repo. Nothing special. Please proceed to your git hunting.
+# DALVYKREPO
+# A normal repo.
+For code testing of course.
