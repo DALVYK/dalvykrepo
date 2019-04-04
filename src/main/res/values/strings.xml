@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">All-In-One Reviewer</string>
+
+    <string name="update_file_url">gs://all-in-one-reviewer.appspot.com/courses.json</string>
+
+
+    <string name="check_for_update">Check for Update</string>
+    <string name="checking_for_update">Checking for Update</string>
+    <string name="reset_app">Reset App</string>
+
+    <string name="preference_default_version">10000</string>
+    <string name="preference_version">cVersion</string>
+    <string name="preference_reviewer_location">reviewerLocation</string>
+    <string name="preference_doShuffle">doShuffle</string>
+
+    <string name="drawer_menu_home">Home</string>
+    <string name="drawer_menu_reviewers">Reviewers</string>
+    <string name="drawer_menu_settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="toast_placeholder">toast_placeholder</string>
+    <string name="button_placeholder">button_placeholder</string>
+    <string name="drawer_menu_exit">Exit</string>
+    <string name="reviewer_options_back">BACK</string>
+    <string name="switch_text_randomize_question">Shuffle Questions</string>
+    <string name="where_you_got_wrong">Where you got wrong</string>
+    <string name="no_wrongs_here">No wrongs here</string>
+    <string name="wronged_previous">previous</string>
+    <string name="wronged_next">next</string>
+    <string name="nothing_here">nothing_here</string>
+    <string name="drawer_menu_performance">Performance</string>
+
+    <string name="result_file">result.json</string>
+    <string name="no_performance_result_message">Please take a review.</string>
+    <string name="performance_result_deleted">Result deleted.</string>
+    <string name="def_reviewer_file">courses.json</string>
+    <string name="graph_xaxis_title">Take(s)</string>
+    <string name="graph_yaxis_title">Score</string>
+    <string name="question_question_start">Question: </string>
+    <string name="reviewer_corrupted">Reviewer Corrupted</string>
+    <string name="reset_complete">Reset complete.</string>
+    <string name="permission_denied">Permission denied to check for internet.</string>
+    <string name="please_grant">Please grant permission for this app.</string>
+    <string name="no_new_version">NO new version available.</string>
+    <string name="new_version_found">New version found, downloading update.</string>
+    <string name="update_downloaded">Update downloaded.</string>
+    <string name="update_download_failed">Update download failed, Try again.</string>
+    <string name="device_has_no_internet">Device has no internet.</string>
+    <string name="title_reviewers">Reviewers</string>
+    <string name="title_performance">Performance</string>
+    <string name="title_settings">Settings</string>
+    <string name="take_count_default">Take: 1</string>
+</resources>

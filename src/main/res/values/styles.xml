@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppButtonsStyleLight">
+        <item name="android:background">@drawable/button_rounded_light</item>
+        <item name="android:textAppearance">@style/AppButtonTextAppearance</item>
+        <item name="android:colorButtonNormal">@color/colorAccent</item>
+    </style>
+
+    <style name="AppButtonsStyleDark">
+        <item name="android:background">@drawable/button_rounded_dark</item>
+        <item name="android:textAppearance">@style/AppButtonTextAppearance</item>
+        <item name="android:colorButtonNormal">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppSwitchTrackThumb">
+        <item name="colorControlActivated">#FFCF79</item>
+    </style>
+
+    <style name="AppButtonTextAppearance">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="ProgressDialogStyle" parent="Base.Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/iconsColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@color/primaryTextColor</item>
+    </style>
+
+    <style name="ToolBarMainMenuStyle" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondary">@android:color/black</item>
+        <item name="actionMenuTextColor">@android:color/black</item>
+    </style>
+
+    <style name="NavigationViewStyle" parent="Base.TextAppearance.AppCompat">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/appBackground">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@color/appBackground">
+
+        <LinearLayout
+            android:id="@+id/linearLayoutSettingContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/appBackground"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Switch
+                android:id="@+id/switchRandomize"
+                android:layout_width="200dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="2.5dp"
+                android:layout_marginBottom="2.5dp"
+                android:background="@drawable/button_rounded_light"
+                android:drawableStart="@drawable/ic_shuffle_black_24dp"
+                android:gravity="center"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:text="@string/switch_text_randomize_question"
+                android:textColor="@color/primaryTextColor"
+                android:textSize="18sp"
+                android:theme="@style/AppSwitchTrackThumb" />
+
+            <Button
+                android:id="@+id/buttonCheckForUpdate"
+                style="@style/AppButtonsStyleLight"
+                android:layout_width="200dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="2.5dp"
+                android:layout_marginBottom="2.5dp"
+                android:drawableStart="@drawable/ic_cloud_download_black_24dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:text="@string/check_for_update" />
+
+            <Button
+                android:id="@+id/buttonResetApp"
+                style="@style/AppButtonsStyleLight"
+                android:layout_width="200dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="2.5dp"
+                android:layout_marginBottom="2.5dp"
+                android:drawableStart="@drawable/ic_settings_backup_restore_black_24dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:text="@string/reset_app" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

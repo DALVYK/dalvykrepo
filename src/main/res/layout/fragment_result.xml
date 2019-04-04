@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/appBackground"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/iconsColor"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:id="@+id/textViewRight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:drawableStart="@drawable/ic_check_black_24dp"
+        android:gravity="center|start"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="24sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/iconsColor"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:id="@+id/textViewWrong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:drawableStart="@drawable/ic_cross_black_24dp"
+        android:gravity="center|start"
+        android:paddingStart="10dp"
+        android:paddingEnd="0dp"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="24sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/iconsColor"
+        android:paddingBottom="10dp" />
+
+    <TextView
+        android:id="@+id/textViewWhereWrong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        android:text="@string/where_you_got_wrong"
+        android:textColor="@color/primaryTextColor"
+        android:textSize="24sp" />
+
+    <FrameLayout
+        android:id="@+id/frameLayoutWrongsContainers"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:background="@color/appBackground"
+        android:foregroundGravity="center_vertical">
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <ImageButton
+            android:id="@+id/imageButtonBackToReviewer"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="0dp"
+            android:layout_marginEnd="2.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_rounded_light"
+            android:contentDescription="@string/reviewer_options_back"
+            app:srcCompat="@drawable/ic_view_list_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/imageButtonRetake"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="2.5dp"
+            android:layout_marginEnd="2.5dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_rounded_light"
+            android:contentDescription="@string/button_placeholder"
+            app:srcCompat="@drawable/ic_sync_black_24dp" />
+
+        <ImageButton
+            android:id="@+id/imageButtonGoToResult"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="2.5dp"
+            android:layout_marginEnd="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/button_rounded_light"
+            android:contentDescription="@string/button_placeholder"
+            app:srcCompat="@drawable/ic_timeline_black_24dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

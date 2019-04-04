@@ -1,0 +1,22 @@
+{
+  "id_1544525080081": {
+    "course_name": "aaa",
+    "course_subjects": {
+      "id_1544525085502": {
+        "subject_name": "ssss",
+        "subject_exam": {
+          "id_1544525103556": {
+            "question": "awdawd awdawd awdadwaDW?\r\n",
+            "correct_answer": "2",
+            "choices": [
+              "awdawd",
+              "23rq3c",
+              "a2ebgve",
+              "q23cvq23e"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

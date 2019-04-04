@@ -1,0 +1,747 @@
+{
+  "course_0": {
+    "course_name": "Criminology",
+    "course_subjects": {
+      "subject_0": {
+        "subject_name": "Law Enforcement Administration",
+        "subject_exam": {
+          "question_0": {
+            "question": "As a security chief of an industrial firm, inventory shows that pilferage is rampant in the warehouse. What will be your choice of action?",
+            "correct_answer": "0",
+            "choices": [
+              "Deploy Intelligence men in pilferage prone area to catch the culprit",
+              "Tighten checking at exists of vehicles of the compound/complex",
+              "To resign if you have failed your job",
+              "Prepare your protective plans and confer with management for their immediate implementation"
+            ]
+          },
+          "question_1": {
+            "question": "Refers to a natural or man-made structure which is capable of delaying illegal access to facility",
+            "correct_answer": "0",
+            "choices": [
+              "Barriers",
+              "Fence",
+              "Wall",
+              "Beach fronts"
+            ]
+          },
+          "question_2": {
+            "question": "What administrative support unit conducts identification and evaluation of physical evidences related to crimes, with emphasis on their medical, chemical, bilogical and physical nature.",
+            "correct_answer": "3",
+            "choices": [
+              "Logistics Service",
+              "Finance Center",
+              "Communication and Electronic service",
+              "Crime Laboratory"
+            ]
+          },
+          "question_3": {
+            "question": "The management of keys used in plant office or business organization to prevent unauthorized access is referred to as",
+            "correct_answer": "1",
+            "choices": [
+              "Lock control",
+              "Key control",
+              "Key management",
+              "Security control"
+            ]
+          },
+          "question_4": {
+            "question": "As structure placed above or vertical fence to increase protection from intruder",
+            "correct_answer": "2",
+            "choices": [
+              "Guard house",
+              "Tower guard",
+              "Top guard",
+              "Clear zone"
+            ]
+          },
+          "question_5": {
+            "question": "The premier educational institution for the training, human resource development and continuing education of all the personnel of BJMP, BFP and PNP",
+            "correct_answer": "3",
+            "choices": [
+              "PNPA",
+              "PNTC",
+              "PCCR",
+              "PPSC"
+            ]
+          },
+          "question_6": {
+            "question": "Minimum age requirement for security manager or operator of a security agency.",
+            "correct_answer": "3",
+            "choices": [
+              "35 yrs. old",
+              "30 yrs. old",
+              "40 yrs. old",
+              "25 yrs. old"
+            ]
+          },
+          "question_7": {
+            "question": "The revised rules and regulation governing the oraginization and operation of private detective and private security agencies and company security forces throughout the country.",
+            "correct_answer": "1",
+            "choices": [
+              "International law",
+              "Private Security law",
+              "Private law",
+              "Security law"
+            ]
+          },
+          "question_8": {
+            "question": "An industrial complex must establish it's first line of physical defense. It must have",
+            "correct_answer": "2",
+            "choices": [
+              "Communication barriers",
+              "The building itself",
+              "Perimeter barriers",
+              "Window barriers"
+            ]
+          },
+          "question_9": {
+            "question": "Small alley like those in the squatter's area of Tondo can be best penetrated by police through",
+            "correct_answer": "2",
+            "choices": [
+              "Mobile patrol",
+              "Highway patrol",
+              "Foot patrol",
+              "Helicopter patrol"
+            ]
+          }
+        }
+      },
+      "subject_1": {
+        "subject_name": "Criminal Law and Procedure",
+        "subject_exam": {
+          "question_0": {
+            "question": "R.A. No. 6235 is known as",
+            "correct_answer": "2",
+            "choices": [
+              "Anti-Piracy and Anti-Highway Robbery Law of 1974",
+              "An act to punish espionage",
+              "Anti-Hijacking law",
+              "None of these"
+            ]
+          },
+          "question_1": {
+            "question": "Lax, Unrestrained, immoral, maintainer of house of prostitution.",
+            "correct_answer": "0",
+            "choices": [
+              "Dissolute",
+              "Ruffians",
+              "Prostitutes",
+              "Vagrants"
+            ]
+          },
+          "question_2": {
+            "question": "One of the following is not an exceptions to the territorial principle of criminal law.",
+            "correct_answer": "0",
+            "choices": [
+              "Crimes committed against public order.",
+              "Offenses committed while on Philippine ship or airship.",
+              "Forging or counterfeting.",
+              "Crimes committed against national security and the law of nations."
+            ]
+          },
+          "question_3": {
+            "question": "Those which, if attendant in the commision of the crime, serve to have the penalty imposed in its maximum period provided by law for the offense or those that change the nature of the crime.",
+            "correct_answer": "3",
+            "choices": [
+              "Exempting circumstances",
+              "Justifying circumstances",
+              "Mitigating cirmustances",
+              "Aggravating circumstances"
+            ]
+          },
+          "question_4": {
+            "question": "____and____courts gain jurisdiction over the offense upon the filing of complaint or an information by those prosecuting officer.",
+            "correct_answer": "2",
+            "choices": [
+              "MTC and SB",
+              "MTC and SC",
+              "MTC and RTC",
+              "MTC and CA"
+            ]
+          },
+          "question_5": {
+            "question": "In criminal Law, Praetor intentionem means",
+            "correct_answer": "1",
+            "choices": [
+              "Mistake in identity",
+              "Lack of intent to commit so grave a wrong",
+              "Mistake in blow",
+              "None of these"
+            ]
+          },
+          "question_6": {
+            "question": "Actus Me Invinto Factus Non Est Meus Actus means",
+            "correct_answer": "2",
+            "choices": [
+              "No intent to commit so grave a wrong",
+              "He who is the cause of the cause is the caused of the evil caused",
+              "Any act done by against my will is not my act",
+              "None of these"
+            ]
+          },
+          "question_7": {
+            "question": "This classification of felony has the following requisites, freedom, intelligence and intent.",
+            "correct_answer": "1",
+            "choices": [
+              "Unintentional Felonies",
+              "Intentonal Felonies",
+              "Culpable Felonies",
+              "None of these"
+            ]
+          },
+          "question_8": {
+            "question": "Under the RPC, afflictive penalties are imposed for a",
+            "correct_answer": "0",
+            "choices": [
+              "Grave felonies",
+              "Less grave felonies",
+              "Light felonies",
+              "None of these"
+            ]
+          },
+          "question_9": {
+            "question": "One who acts with complete deprivation of intelligence or reason or without the least discrement or with total deprivation of freedom of will.",
+            "correct_answer": "0",
+            "choices": [
+              "Insane",
+              "Imbecile",
+              "Stupid",
+              "None of these"
+            ]
+          }
+        }
+      },
+      "subject_2": {
+        "subject_name": "Criminal Jurisprudence",
+        "subject_exam": {
+          "question_0": {
+            "question": "Which of the following is the exemption to the hearsay rule made under the consciousness of an impending death.",
+            "correct_answer": "3",
+            "choices": [
+              "Sucide note",
+              "Parol evidence",
+              "Ante mortem statement",
+              "Dead man statue"
+            ]
+          },
+          "question_1": {
+            "question": "An act or omission which is a result of a misapprehension of facts that is voluntary but not intentional.",
+            "correct_answer": "1",
+            "choices": [
+              "Impossible crime",
+              "Mistake of facts",
+              "Accidental crime",
+              "Complex crime"
+            ]
+          },
+          "question_2": {
+            "question": "The law hears before it condemns, proceeds upon inquiry and render judgement after a fair trial.",
+            "correct_answer": "3",
+            "choices": [
+              "Rule of law",
+              "Ex post facto law",
+              "Equal protection of the law",
+              "Due process law"
+            ]
+          },
+          "question_3": {
+            "question": "The security given for the release of a person in custody, furnished by him or a bondsman, conditioned upon his appearance before any court as required under the conditions specified by law.",
+            "correct_answer": "0",
+            "choices": [
+              "Bail",
+              "Warrant",
+              "Subpoena",
+              "Recognizance"
+            ]
+          },
+          "question_4": {
+            "question": "A special aggarvating circumstance where a person, after having been convicted by final judgement, shall commit a new felony before beginning to serve such sentence, or while serving the same.",
+            "correct_answer": "3",
+            "choices": [
+              "Charivari",
+              "Recidivism",
+              "Reiteracion",
+              "Quasi-recidivism"
+            ]
+          },
+          "question_5": {
+            "question": "All persons who can percieve can make known their perception to others.",
+            "correct_answer": "3",
+            "choices": [
+              "Informers",
+              "Suspects",
+              "Victims",
+              "Witnesses"
+            ]
+          },
+          "question_6": {
+            "question": "The mental capacity to understand the difference between right and wrong.",
+            "correct_answer": "0",
+            "choices": [
+              "Discernment",
+              "Treachery",
+              "Recidivism",
+              "Premediation"
+            ]
+          },
+          "question_7": {
+            "question": "The RPC was based on the:",
+            "correct_answer": "0",
+            "choices": [
+              "Spanish penal code",
+              "English penal code",
+              "Americal penal code",
+              "Japanese penal code"
+            ]
+          },
+          "question_8": {
+            "question": "Felony commited when a person compels another by means of force, violence or intimidation to do something against his will, whether right or wrong.",
+            "correct_answer": "0",
+            "choices": [
+              "Grave coercion",
+              "Slander by deed",
+              "Grave threat",
+              "Direct assualt"
+            ]
+          },
+          "question_9": {
+            "question": "The deprivation of a private person of the liberty of another person without legal grounds.",
+            "correct_answer": "0",
+            "choices": [
+              "Illegal detention",
+              "Forcible detention",
+              "Arbitrary detention",
+              "Forcible detention"
+            ]
+          }
+        }
+      },
+      "subject_3": {
+        "subject_name": "Criminalistics",
+        "subject_exam": {
+          "question_0": {
+            "question": "The application of chemical principles and processes in the examination of evidence.",
+            "correct_answer": "3",
+            "choices": [
+              "Forensic evidence",
+              "Forensic medicine",
+              "Criminalistics",
+              "Forensice chemistry"
+            ]
+          },
+          "question_1": {
+            "question": "The displacement of the articular surface of the bone without external wounds.",
+            "correct_answer": "1",
+            "choices": [
+              "Hermatoma",
+              "Dislocation",
+              "Sprain",
+              "Fracture"
+            ]
+          },
+          "question_2": {
+            "question": "The point on a ridge at or in front of a nearest the center of the divergence of the type lines.",
+            "correct_answer": "2",
+            "choices": [
+              "Island",
+              "Divergence",
+              "Delta",
+              "Bifurcation"
+            ]
+          },
+          "question_3": {
+            "question": "A fingerprint pattern which one or more ridges enter on either side of the impression by a recurve, and terminate on the same side where the ridge has entered.",
+            "correct_answer": "0",
+            "choices": [
+              "Ulnar loop",
+              "Loop",
+              "Radial loop",
+              "Tented arch"
+            ]
+          },
+          "question_4": {
+            "question": "The approximate time for the completion of one case for DNA testing.",
+            "correct_answer": "3",
+            "choices": [
+              "2 weeks",
+              "8 weeks",
+              "6 weeks",
+              "4 weeks"
+            ]
+          },
+          "question_5": {
+            "question": "Is the measurement of the bore diameter from land to land.",
+            "correct_answer": "0",
+            "choices": [
+              "Calibre",
+              "Mean diameter",
+              "Gauge",
+              "Rifling"
+            ]
+          },
+          "question_6": {
+            "question": "A kind of document executed by a person in authority and by private parties but not notarized by competent officials. ",
+            "correct_answer": "2",
+            "choices": [
+              "Official document ",
+              "Private document",
+              "Public document",
+              "Commercial document"
+            ]
+          },
+          "question_7": {
+            "question": "The study and identification of body fluids.",
+            "correct_answer": "1",
+            "choices": [
+              "Pharmacology",
+              "Serology",
+              "Posology",
+              "Immunology"
+            ]
+          },
+          "question_8": {
+            "question": "In forensic examination, a tip of the hair is examined to determine if it was",
+            "correct_answer": "2",
+            "choices": [
+              "Bend",
+              "Folded",
+              "Cut",
+              "Stretched"
+            ]
+          },
+          "question_9": {
+            "question": "Poisons which produce stupor and less feeling",
+            "correct_answer": "1",
+            "choices": [
+              "Depressants",
+              "Narcotics",
+              "Irritants",
+              "Stimulants"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "course_1": {
+    "course_name": "Civil Service",
+    "course_subjects": {
+      "subject_0": {
+        "subject_name": "English Proficiency",
+        "subject_exam": {
+          "question_0": {
+            "question": "Earth is the center : Ptolemy : Sun is the Center",
+            "correct_answer": "2",
+            "choices": [
+              "Galileo",
+              "Aristotle",
+              "Copernicus",
+              "Alber Einstein"
+            ]
+          },
+          "question_1": {
+            "question": "Cat : kitten :: Horse : ",
+            "correct_answer": "3",
+            "choices": [
+              "Cab",
+              "Stallion",
+              "Puppy",
+              "Pony"
+            ]
+          },
+          "question_2": {
+            "question": "Elevator : shaft ::",
+            "correct_answer": "1",
+            "choices": [
+              "Gas : fire",
+              "Water : conduit",
+              "Railroad : train",
+              "Electricity : outlet"
+            ]
+          },
+          "question_3": {
+            "question": "ICHTHYOLOGY means nearly the same as",
+            "correct_answer": "3",
+            "choices": [
+              "Biology",
+              "Geology",
+              "Archeology",
+              "Zoology"
+            ]
+          },
+          "question_4": {
+            "question": "The defense presented its case to the jury in a TRENCHANT manner",
+            "correct_answer": "0",
+            "choices": [
+              "Cautious",
+              "Emphatic",
+              "Vague",
+              "Dignified"
+            ]
+          },
+          "question_5": {
+            "question": "Suicide was severely ADMONISHED by her parents after she came home very late.",
+            "correct_answer": "3",
+            "choices": [
+              "Abhorred",
+              "Beaten",
+              "Punished",
+              "Lectured"
+            ]
+          },
+          "question_6": {
+            "question": "DURESS",
+            "correct_answer": "1",
+            "choices": [
+              "Respect",
+              "Pressure",
+              "Fortune",
+              "Careless"
+            ]
+          },
+          "question_7": {
+            "question": "Clara____three thousand words for her essay",
+            "correct_answer": "2",
+            "choices": [
+              "have wrote",
+              "has wrote",
+              "has written",
+              "have written"
+            ]
+          },
+          "question_8": {
+            "question": "During the independence day celebrations, the directive is ____",
+            "correct_answer": "0",
+            "choices": [
+              "hang your flags on June 12",
+              "hanged your flags on June 12",
+              "hanged tour flags during June 12",
+              "hung your flags on June 12"
+            ]
+          },
+          "question_9": {
+            "question": "A number of factory workers were____due to retrenchment.",
+            "correct_answer": "1",
+            "choices": [
+              "laid away",
+              "laid off",
+              "laid out",
+              "laid aside"
+            ]
+          }
+        }
+      },
+      "subject_1": {
+        "subject_name": "Kasanayan sa Tagalog",
+        "subject_exam": {
+          "question_0": {
+            "question": "Pakiramdam niya ay labis-labis ang kanyang suliranin kung siya ay MAGLIGALIG",
+            "correct_answer": "3",
+            "choices": [
+              "Malinaw ang pagiisip",
+              "Matalino",
+              "Masaya",
+              "Magulo ang isip"
+            ]
+          },
+          "question_1": {
+            "question": "Karapatan ng bawat batang pilipino ang magkaroon ng pamilyang MAG-AARUGA sa kanya.",
+            "correct_answer": "0",
+            "choices": [
+              "Mag-aalaga",
+              "Gagabay",
+              "Magsasaway",
+              "Tutulong"
+            ]
+          },
+          "question_2": {
+            "question": "Huwag mong PUKAWIN ang batang nahihimlay.",
+            "correct_answer": "0",
+            "choices": [
+              "Gisingin",
+              "Libangin",
+              "Palayain",
+              "Pigilin"
+            ]
+          },
+          "question_3": {
+            "question": "Dapat kang MAGKAMAL ng salapi sa mabuting paraan lamang.",
+            "correct_answer": "2",
+            "choices": [
+              "Magmana",
+              "Magnakaw",
+              "Magipon",
+              "Maghanda"
+            ]
+          },
+          "question_4": {
+            "question": "TIKLOP-TUHOD ang akusado na siya ay patawatin ng biktima.",
+            "correct_answer": "2",
+            "choices": [
+              "Nagkukunwari",
+              "Gumagapang",
+              "Nagmamakaawa",
+              "Nananakot"
+            ]
+          },
+          "question_5": {
+            "question": "HALANG ANG KALULUWA ng taong gumagawa ng karumaldumal na krimen.",
+            "correct_answer": "1",
+            "choices": [
+              "Bastos",
+              "Maitim ang budhi",
+              "Mabait",
+              "Matapang"
+            ]
+          },
+          "question_6": {
+            "question": "Mahilig kasing magbasa kahit sa madilim si Tina kaya siya ay NAGMAMATANG-MANOK.",
+            "correct_answer": "0",
+            "choices": [
+              "Malabo ang mata",
+              "Kumikislap ang mata",
+              "Lumiliit ang mata",
+              "Lumuluwa ang mata"
+            ]
+          },
+          "question_7": {
+            "question": "Patuloy na MAGDAHAROP ang taong tamad.",
+            "correct_answer": "0",
+            "choices": [
+              "Aasenso",
+              "Magging salat",
+              "Maghihikahos",
+              "Maghihirap"
+            ]
+          },
+          "question_8": {
+            "question": "MASALIMUOT man ang buhay natin, di tayo dapat mawalan ng pagasa.",
+            "correct_answer": "1",
+            "choices": [
+              "Mahirap",
+              "Maayos",
+              "Magulo",
+              "Malungkot"
+            ]
+          },
+          "question_9": {
+            "question": "Makapal at MAGALAS ang palad ng mga mason at karpintero.",
+            "correct_answer": "2",
+            "choices": [
+              "Mabuto",
+              "Magaspang ",
+              "Makinis",
+              "Maliksi"
+            ]
+          }
+        }
+      },
+      "subject_2": {
+        "subject_name": "General Information",
+        "subject_exam": {
+          "question_0": {
+            "question": "The Philippine constitution explicitly recognize that____authority, at all times supreme over the military. Its goal is to secure the sovereignty of the state. ",
+            "correct_answer": "2",
+            "choices": [
+              "Presidential",
+              "Democratic",
+              "Civilian",
+              "Parliamentary"
+            ]
+          },
+          "question_1": {
+            "question": "This law promotes responsible family planning and proper use of reproductive method to eliminate over population growth.",
+            "correct_answer": "1",
+            "choices": [
+              "Reproductive law",
+              "Responsible parenthood and reproductive health law",
+              "RH bill",
+              "Family planning"
+            ]
+          },
+          "question_2": {
+            "question": "Association of Southeast Asian Nations (ASEAN) aims to accelerate economic growth, stability, social progress and cultural document in the spirit of equality and partnership to strengthen prosperous and peaceful community along Southeast Asian nations. Which of the following countries is not a member of ASEAN?",
+            "correct_answer": "2",
+            "choices": [
+              "Philippines",
+              "Thailand",
+              "Hongkong",
+              "Vietnam"
+            ]
+          },
+          "question_3": {
+            "question": "Public officials and employees shall remain true to the people all the times, shall not discriminate, shall respect at all times the right of others and refrain from doing acts contrary to law good morals, public policy, public safety, and public interest.",
+            "correct_answer": "1",
+            "choices": [
+              "Political neutrality",
+              "Commitment",
+              "Justness and Sincerity",
+              "Professionalism"
+            ]
+          },
+          "question_4": {
+            "question": "Public officials and employees shall provide service to everyone without discrimination and regardless of party affiliation or preference.",
+            "correct_answer": "2",
+            "choices": [
+              "Professionalism",
+              "Justice and Security",
+              "Political Neutrality",
+              "Responsiveness to service"
+            ]
+          },
+          "question_5": {
+            "question": "The “Rule of Majority” is an unwritten law of a democratic government. For the Congress to declare the existence of a state of war or to call a constitutional convention, ______ vote of all its respected members is required.",
+            "correct_answer": "2",
+            "choices": [
+              "Concurring",
+              "Minority",
+              "Two-thirds majority",
+              "Simple majority"
+            ]
+          },
+          "question_6": {
+            "question": "He is the highest position ranking executive.",
+            "correct_answer": "1",
+            "choices": [
+              "CFO",
+              "CEO",
+              "EAO",
+              "CEA"
+            ]
+          },
+          "question_7": {
+            "question": "Which of the ff forms is not the concern of a clerk in a business establishment?",
+            "correct_answer": "2",
+            "choices": [
+              "Voucher for requisition",
+              "Purchase order",
+              "DECS Form 137",
+              "Stock room requisition"
+            ]
+          },
+          "question_8": {
+            "question": "Which department of an office is responsible for hiring new personnel?",
+            "correct_answer": "3",
+            "choices": [
+              "Accounting ",
+              "Office of the President",
+              "Logsitics and supply",
+              "Human resource "
+            ]
+          },
+          "question_9": {
+            "question": "To whom will the duty of ordering needed goods fal?",
+            "correct_answer": "0",
+            "choices": [
+              "Purchasing clerk ",
+              "Salesman",
+              "Recieving clerk",
+              "manager"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="design_navigation_separator_vertical_padding">0dp</dimen>
+</resources>
